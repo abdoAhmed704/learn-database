@@ -17,7 +17,7 @@ This repository serves as a structured knowledge hub for mastering database syst
 | :--- | :--- | :---: | :--- |
 
 | **Chapter 03** | **Introduction to SQL** | ✅ Completed | [03-intro-to-sql](./chapters/03-intro-to-sql) |
-| **Chapter 04** | Intermediate SQL (Joins, Views, Transactions, Integrity) | ⏳ Up Next | [04-intermediate-sql](./chapters/04-intermediate-sql) |
+| **Chapter 04** | **Intermediate SQL (Functions, Procedures, Triggers, Constraints, Indexes, Authorization)** | ✅ Completed | [04-intermediate-sql](./chapters/04-intermediate-sql) |
 | **Chapter 05** | Advanced SQL (Functions, Procedures, Triggers, Recursive Queries) | ⏳ Planned | [05-advanced-sql](./chapters/05-advanced-sql) |
 
 ### 📐 Part 2: Database Design & Modeling
